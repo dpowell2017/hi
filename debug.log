@@ -1,0 +1,20 @@
+[0510/121301:FATAL:nacl_helper_win_64.cc(97)] Check failed: false. Unknown NaCl 64 process.
+Backtrace:
+	GetHandleVerifier [0x00007FF7E421E051+79297]
+	ovly_debug_event [0x00007FF7E41FC8AC+21468]
+	(No symbol) [0x00007FF7E41C7EC9]
+	(No symbol) [0x00007FF7E41C2A38]
+	IsSandboxedProcess [0x00007FF7E44B2266+2321862]
+	BaseThreadInitThunk [0x00007FFB53628102+34]
+	RtlUserThreadStart [0x00007FFB559FC5B4+52]
+
+[0510/121330:FATAL:nacl_helper_win_64.cc(97)] Check failed: false. Unknown NaCl 64 process.
+Backtrace:
+	GetHandleVerifier [0x00007FF7E421E051+79297]
+	ovly_debug_event [0x00007FF7E41FC8AC+21468]
+	(No symbol) [0x00007FF7E41C7EC9]
+	(No symbol) [0x00007FF7E41C2A38]
+	IsSandboxedProcess [0x00007FF7E44B2266+2321862]
+	BaseThreadInitThunk [0x00007FFB53628102+34]
+	RtlUserThreadStart [0x00007FFB559FC5B4+52]
+
